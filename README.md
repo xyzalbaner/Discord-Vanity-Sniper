@@ -11,6 +11,8 @@
 
 showcase video> discord.gg/xyzshop
 
+btw in clip "vanity taken" means not that you took the vanity, it's just a taken vanity, and it keeps looking for it until its free2claim!
+
 ɤ fast Tool & good gui
 ɤ Updatest Version of Chrome Version
 ɤ dev's discord Tag: bhop3
