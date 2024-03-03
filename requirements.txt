@@ -1,0 +1,4 @@
+tls-client==1.0.1
+requests==2.31.0
+easygui==0.98.3
+pystyle==2.9
