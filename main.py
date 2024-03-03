@@ -120,7 +120,7 @@ class xyzVanity:
             try:
                 r = self.session.get(f"https://discord.com/api/v9/invites/{vanity}?with_counts=true&with_expiration=true", headers=headerz)
                 if r.status_code == 200:
-                    print(Colorate.Horizontal(Colors.cyan_to_green, f'                    [Vanity Taken] ({self.check_status(r.status_code)}) → {tk} [{vanity}]'))
+                    print(Colorate.Horizontal(Colors.cyan_to_green, f'                    [Vanity] Not Free → {tk} [{vanity}]'))
                     time.sleep(delay)
                 else:
                     print(Colorate.Vertical(Colors.cyan_to_green, f'                    [Vanity Free] ({self.check_status(r.status_code)}) → {tk}'))
